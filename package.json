@@ -1,6 +1,6 @@
 {
-  "homepage": "https://thefznkhan.github.io/",
-  "name": "portfolio",
+  "homepage": "https://thefznkhan.github.io/portfolio-react",
+  "name": "portfolio-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

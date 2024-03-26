@@ -65,5 +65,5 @@ Thank you for visiting my portfolio. If you have any questions, or suggestions, 
 
 Happy coding!
 
-[Portfolio](https://thefznkhan.github.io/)
+[Portfolio](https://thefznkhan.github.io/portfolio-react)
 
