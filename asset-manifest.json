@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.dbe70b0f.css",
+    "main.js": "/portfolio-react/static/js/main.80256e49.js",
+    "static/media/QuoteGenerator.png": "/portfolio-react/static/media/QuoteGenerator.a21402229ad94d036f31.png",
+    "static/media/Calculator_2.png": "/portfolio-react/static/media/Calculator_2.cda331a9c5abeb20483a.png",
+    "static/media/logo.png": "/portfolio-react/static/media/logo.81b55c981091135d24e5.png",
+    "static/media/Calculator.png": "/portfolio-react/static/media/Calculator.bd9ac693fe66ab6dec34.png",
+    "static/media/QR_Code_Gen.png": "/portfolio-react/static/media/QR_Code_Gen.ae60feb09ca1f6a360c9.png",
+    "static/media/faizan-CV.pdf": "/portfolio-react/static/media/faizan-CV.0e8cb7c77b3ae884f629.pdf",
+    "static/media/close.svg": "/portfolio-react/static/media/close.a27ee5119f614252a67915d3a0dcbd98.svg",
+    "index.html": "/portfolio-react/index.html",
+    "main.dbe70b0f.css.map": "/portfolio-react/static/css/main.dbe70b0f.css.map",
+    "main.80256e49.js.map": "/portfolio-react/static/js/main.80256e49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbe70b0f.css",
+    "static/js/main.80256e49.js"
+  ]
+}
