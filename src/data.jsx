@@ -15,6 +15,9 @@ import Work1 from "./assets/Calculator.png";
 import Work2 from "./assets/Calculator_2.png";
 import Work3 from "./assets/QuoteGenerator.png";
 import Work4 from "./assets/QR_Code_Gen.png";
+import Work5 from "./assets/price-tracker.png";
+import Work6 from "./assets/next-portfolio.png";
+
 
 import Theme1 from "./assets/purple.png";
 import Theme2 from "./assets/red.png";
@@ -256,6 +259,60 @@ export const resume = [
 export const portfolio = [
     {
         id: 1,
+        img: Work5,
+        title: "Price Tracker",
+        details: [
+            {
+                icon: <FiFileText />,
+                title: "Project : ",
+                desc: "Website",
+            },
+            {
+                icon: <FaGithub />,
+                title: "Github Repository : ",
+                desc: "https://github.com/THEFZNKHAN/price-tracker",
+            },
+            {
+                icon: <FaCode />,
+                title: "Language : ",
+                desc: "NextJs, TypeScript, TailwindCSS, MongoDB, Cheerio, Nodemailer",
+            },
+            {
+                icon: <FaLink />,
+                title: "Preview : ",
+                desc: "https://v-price-tracker.vercel.app/",
+            },
+        ],
+    },
+    {
+        id: 2,
+        img: Work6,
+        title: "NextJs Portfolio",
+        details: [
+            {
+                icon: <FiFileText />,
+                title: "Project : ",
+                desc: "Website",
+            },
+            {
+                icon: <FaGithub />,
+                title: "Github Repository : ",
+                desc: "https://github.com/THEFZNKHAN/next-portfolio",
+            },
+            {
+                icon: <FaCode />,
+                title: "Language : ",
+                desc: "NextJs, TypeScript, TailwindCSS",
+            },
+            {
+                icon: <FaLink />,
+                title: "Preview : ",
+                desc: "https://github.com/THEFZNKHAN/next-portfolio",
+            },
+        ],
+    },
+    {
+        id: 3,
         img: Work1,
         title: "Web Calculator",
         details: [
@@ -282,7 +339,7 @@ export const portfolio = [
         ],
     },
     {
-        id: 2,
+        id: 4,
         img: Work2,
         title: "Web Calculator 2.0",
         details: [
@@ -309,7 +366,7 @@ export const portfolio = [
         ],
     },
     {
-        id: 3,
+        id: 5,
         img: Work3,
         title: "Quote Generator",
         details: [
@@ -336,7 +393,7 @@ export const portfolio = [
         ],
     },
     {
-        id: 4,
+        id: 6,
         img: Work4,
         title: "QR-Code Generator",
         details: [
